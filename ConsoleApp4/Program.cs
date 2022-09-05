@@ -20,6 +20,7 @@ namespace ConsoleApp4
             }
             Console.WriteLine(parts[ind]);
             Console.ReadLine();
+            //ЖиииИИИиЖЖЖаААа
         }
         
     }
